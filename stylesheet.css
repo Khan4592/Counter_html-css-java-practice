@@ -1,0 +1,38 @@
+.backgrnd{
+    background-color:lightblue;
+}
+.heading{ 
+    height: 200px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading h1{
+    font-size: 50px;
+    color: rgb(245, 0, 0);
+    font-weight: bolder;
+}
+.cntr{
+    width: 80%;
+    margin: auto;
+}
+button{
+    color: red;
+    background-color: white;
+    font-weight: bold;
+    font-size: large;
+}
+button:hover{
+    font-size: larger;
+    background-color: aqua;
+}
+button:active{
+    color: blue;
+}
+p{
+    font-size: large;
+    color: black;
+    font-weight: bolder;
+    
+}
